@@ -13,3 +13,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 We are just playing
 
+<<<<<<< HEAD
+=======
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+>>>>>>> fd25835238fa738f47a82a21022eb4ec7b89087b
